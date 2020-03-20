@@ -1,0 +1,20 @@
+C:\Users\Mahmood\Desktop\Covid-19-Simulation\Covid-19-Simulation\obj\Debug\Covid_19_Simulation.Form1.resources
+C:\Users\Mahmood\Desktop\Covid-19-Simulation\Covid-19-Simulation\obj\Debug\Covid_19_Simulation.Properties.Resources.resources
+C:\Users\Mahmood\Desktop\Covid-19-Simulation\Covid-19-Simulation\obj\Debug\Covid-19-Simulation.csproj.GenerateResource.cache
+C:\Users\Mahmood\Desktop\Covid-19-Simulation\Covid-19-Simulation\obj\Debug\Covid-19-Simulation.csproj.CoreCompileInputs.cache
+C:\Users\Mahmood\Desktop\Covid-19-Simulation\Covid-19-Simulation\bin\Debug\Covid-19-Simulation.exe.config
+C:\Users\Mahmood\Desktop\Covid-19-Simulation\Covid-19-Simulation\bin\Debug\Covid-19-Simulation.exe
+C:\Users\Mahmood\Desktop\Covid-19-Simulation\Covid-19-Simulation\bin\Debug\Covid-19-Simulation.pdb
+C:\Users\Mahmood\Desktop\Covid-19-Simulation\Covid-19-Simulation\obj\Debug\Covid-19-Simulation.exe
+C:\Users\Mahmood\Desktop\Covid-19-Simulation\Covid-19-Simulation\obj\Debug\Covid-19-Simulation.pdb
+C:\Users\Mahmood\Desktop\Covid-19-Simulation\Covid-19-Simulation\obj\Debug\Covid-19-Simulation.csprojAssemblyReference.cache
+C:\Users\Mahmood\Desktop\Covid-19-Simulation - Copy\Covid-19-Simulation\bin\Debug\Covid-19-Simulation.exe.config
+C:\Users\Mahmood\Desktop\Covid-19-Simulation - Copy\Covid-19-Simulation\bin\Debug\Covid-19-Simulation.exe
+C:\Users\Mahmood\Desktop\Covid-19-Simulation - Copy\Covid-19-Simulation\bin\Debug\Covid-19-Simulation.pdb
+C:\Users\Mahmood\Desktop\Covid-19-Simulation - Copy\Covid-19-Simulation\obj\Debug\Covid-19-Simulation.csprojAssemblyReference.cache
+C:\Users\Mahmood\Desktop\Covid-19-Simulation - Copy\Covid-19-Simulation\obj\Debug\Covid_19_Simulation.Form1.resources
+C:\Users\Mahmood\Desktop\Covid-19-Simulation - Copy\Covid-19-Simulation\obj\Debug\Covid_19_Simulation.Properties.Resources.resources
+C:\Users\Mahmood\Desktop\Covid-19-Simulation - Copy\Covid-19-Simulation\obj\Debug\Covid-19-Simulation.csproj.GenerateResource.cache
+C:\Users\Mahmood\Desktop\Covid-19-Simulation - Copy\Covid-19-Simulation\obj\Debug\Covid-19-Simulation.csproj.CoreCompileInputs.cache
+C:\Users\Mahmood\Desktop\Covid-19-Simulation - Copy\Covid-19-Simulation\obj\Debug\Covid-19-Simulation.exe
+C:\Users\Mahmood\Desktop\Covid-19-Simulation - Copy\Covid-19-Simulation\obj\Debug\Covid-19-Simulation.pdb
